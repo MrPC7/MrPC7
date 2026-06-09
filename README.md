@@ -1,57 +1,45 @@
+<h1 align="center">Pranshu Chaurasia</h1>
 
+<p align="center">
+  Backend SDE &nbsp;·&nbsp; Java · Spring Boot · Distributed Systems · LLM Integration<br/>
+  M.Tech (AI/CS) @ IIIT Lucknow &nbsp;|&nbsp; GATE Qualified 3×
+</p>
 
-<!--
-**MrPC7/MrPC7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Hi there 👋, I'm Pranshu Chaurasia  
-
-🎓 **M.Tech (AI) Student @ IIIT Lucknow**  
-💻 **AI | Machine Learning | Web Development | Software Development Enthusiast**  
-🚀 Passionate about building intelligent systems and solving real-world problems  
+<p align="center">
+  <a href="https://pranshuchaurasia.dev">Portfolio</a> ·
+  <a href="https://linkedin.com/in/MrPC7">LinkedIn</a> ·
+  <a href="mailto:thepranshuchaurasia@gmail.com">Email</a>
+</p>
 
 ---
 
-## 👨‍💻 About Me  
+## About
 
-- 🔭 Currently learning **Java** and working on **AI & Machine Learning projects**
-- 💡 Strong in **DSA, C++, and Problem Solving**
-- 🏆 Cleared **GATE 3 times**
-- 🌍 Open Source Contributor (**GSSoC 2024**)
+Backend engineer focused on distributed systems, workflow orchestration, and AI integration.
+I build things that handle real operational load — concurrent task runners, multi-provider LLM routers, and event-driven pipelines.
 
 ---
 
-## 🛠️ Tech Stack  
+## Stack
 
-**Languages**  
-- Python, C/C++, Java, JavaScript  
-
-**AI / ML**  
-- TensorFlow, PyTorch, Scikit-learn  
-- Computer Vision (OpenCV)  
-
-**Web & Tools**  
-- React.js, Node.js  
-- SQL, Git, Linux  
-- Azure Cloud  
+**Languages** — Java, Python, C/C++, JavaScript, SQL  
+**Backend** — Spring Boot, Temporal.io, REST APIs, Hibernate/JPA, Maven  
+**AI/ML** — OpenAI API, LLM Integration, TensorFlow, PyTorch, OpenCV  
+**DevOps** — Docker, Kubernetes (EKS), Helm, GitHub Actions, AWS ECR, PostgreSQL  
+**Concepts** — Distributed Systems, Microservices, Event-Driven Architecture, CI/CD
 
 ---
 
-## 📫 Connect With Me  
-- 💼 LinkedIn: **https://www.linkedin.com/in/MrPC7/**  
-- 📧 Email: **thepranshuchaurasia@gmail.com**
-- 📍 Location: **Bangalore, Karnataka, India**
+## Highlights
+
+- GATE CS — Cleared 3 times
+- GSSoC 2024 — Open source contributor
+- Teaching Assistant — Mentored 240+ students in AI, RL & DSA at IIIT Lucknow
+- IMO — 2× Bronze, 1× Silver (Zone Topper)
 
 ---
 
-⭐ *If you like my work, consider starring my repositories!*  
+## Open to
+
+Backend / SDE roles — fintech, edtech, infra, AI-adjacent products. Full-time or internship.  
+📬 thepranshuchaurasia@gmail.com
