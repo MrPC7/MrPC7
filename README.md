@@ -41,5 +41,5 @@ I build things that handle real operational load — concurrent task runners, mu
 
 ## Open to
 
-Backend / SDE roles — fintech, edtech, infra, AI-adjacent products. Full-time or internship.  
+Backend / SDE roles — fintech, edtech, infra, AI-adjacent products.
 📬 thepranshuchaurasia@gmail.com
